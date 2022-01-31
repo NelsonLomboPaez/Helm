@@ -1,2 +1,3 @@
-# Helm
-Playing a bit with Helm and Red Hat GitOps Operator
+# Red Hat GitOps Operator
+Playing a bit with Red Hat GitOps Operator
+
